@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_snx_v3_liquidity=globalThis.webpackChunk_snx_v3_liquidity||[]).push([[4548],{54548:e=>{e.exports=JSON.parse('{"weth_oracle_id":"0xa1ad04e5fe674fe144be389adb9340f0b15e73d866da4e70145eec4ef867955b","eth_oracle_id":"0xa1ad04e5fe674fe144be389adb9340f0b15e73d866da4e70145eec4ef867955b"}')}}]);
