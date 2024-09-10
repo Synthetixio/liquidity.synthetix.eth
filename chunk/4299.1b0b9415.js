@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_snx_v3_liquidity=globalThis.webpackChunk_snx_v3_liquidity||[]).push([[4299],{94299:e=>{e.exports=JSON.parse('{"address":"0xF87E23c41Ce898Ab7640FC3Ce2eb8B11f257e67a","symbol":"snxUSD","name":"Synthetic USD Token v3","decimals":18}')}}]);
