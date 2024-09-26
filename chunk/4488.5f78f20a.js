@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_snx_v3_liquidity=globalThis.webpackChunk_snx_v3_liquidity||[]).push([[4488],{74488:s=>{s.exports=JSON.parse('[{"synthMarketId":"2","address":"0x3f3eD1002F55121b8213182f09d4BE544E08B9F9","symbol":"snxUSDe","name":"Synthetic Ethena USD","decimals":18}]')}}]);
